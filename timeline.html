@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Internet Timeline - Pakistan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- ================= HEADER & NAVIGATION ================= -->
+    <header>
+        <nav class="navbar">
+            <h1 class="hero-title">Internet Timeline in Pakistan</h1>
+            <ul class="nav-list">
+                
+                <li><a href="index.html">Home</a></li>
+                <li><a href="timeline.html">Timeline</a></li>
+                <li><a href="modern.html">Modern Era</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- ================= MAIN CONTENT ================= -->
+    <main>
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <p class="hero-text">
+                Explore the major milestones that shaped the digital transformation
+                of Pakistan from broadband expansion to 5G innovation.
+            </p>
+        </section>
+
+        <!-- Timeline Section -->
+        <section class="timeline-section">
+            <div id="timeline-container" class="timeline-container">
+                <!-- Handlebars content will be injected here -->
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ================= FOOTER ================= -->
+    <footer class="footer">
+    <div class="footer-container">
+        <h3>Internet Revolution in Pakistan</h3>
+        <p>Exploring the digital journey from broadband to 5G innovation.</p>
+        <p class="footer-bottom">
+            © 2026 Web Development Project | All Rights Reserved
+        </p>
+    </div>
+</footer>
+
+    <!-- ================= HANDLEBARS TEMPLATE ================= -->
+    <script id="timeline-template" type="text/x-handlebars-template">
+        {{#each events}}
+        
+    
+            <article class="event-card">
+                <h3>{{year}} – {{title}}</h3>
+                <img src="{{image}}" alt="{{title}}" class="event-image">
+                <p>{{description}}</p>
+            </article>
+        {{/each}}
+    </script>
+
+    <!-- ================= JAVASCRIPT ================= -->
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+    <script src="js/script.js"></script>
+
+</body>
+</html>
