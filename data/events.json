@@ -1,0 +1,66 @@
+ [
+    {
+      "year": 1993,
+      "title": "Digicom",
+      "description": "The first forms of internet connectivity appeared in Pakistan in the early 1990s. Early providers such as Digicom offered dial-up email and limited internet access using satellite connections. During this period, access was highly restricted and primarily available to businesses, government organizations, and academic institutions.",
+      "image": "images/digicom.png"
+    },
+    {
+      "year": 1995,
+      "title": "Internet Awareness",
+      "description":"Public internet services became commercially available in Pakistan around 1995. Dial-up connections operated at speeds of 28.8 kbps and required telephone lines. Internet cafés began appearing in major cities, allowing wider public access.",
+      "image": "images/Internetawareness.jpg"
+    },
+   {
+    "year": 1996,
+    "title": "Establishment of PTA",
+    "description": "In 1996,the Pakistan Telecommunication Authority (PTA) was established to regulate telecommunications and Internet Service Providers (ISPs). This was a major regulatory milestone that structured the growth of Pakistan’s internet industry.",
+    "image": "images/PTA.jpg"
+  },
+    {
+      "year": 1997,
+      "title": "Cybernet",
+      "description": "In 1997,Cyber Internet Services (Cybernet) started providing internet services in Karachi. It became one of Pakistan’s early major ISPs and contributed to expanding urban connectivity.",
+      "image": "images/cybernet.jpg"
+    },
+    {
+      "year": 2000,
+      "title": "Pakistan Submarine",
+      "description": "In 2000,Pakistan Telecommunication Company Limited connected Pakistan to the SEA-ME-WE 3 submarine cable system. This significantly improved international bandwidth, speed, and reliability of internet services in the country.",
+      "image": "images/SUBMARINE.png"
+    },
+    {
+      "year": 2001,
+      "title": "First broadbrand",
+      "description": "The first broadband DSL services were introduced, replacing dial-up connections. DSL provided always-on connectivity and improved speeds, marking the beginning of Pakistan’s broadband era.",
+      "image": "images/DSL.jpg"
+    },
+    {
+      "year": 2006,
+      "title": "Nayatel Pvt Ltd",
+      "description": "In 2006, Nayatel launched Fiber to the Home (FTTH) services in Islamabad. This introduced high-speed fiber internet and triple-play services (Internet, TV, and Phone), representing a significant technological upgrade.",
+      "image": "images/nayatel.webp"
+
+    },
+    {
+      "year": 2009,
+      "title": "Wateen Telecom & Cybernet",
+      "description": "In 2009,companies such as Wateen Telecom and Wi-Tribe introduced WiMAX wireless broadband services. During this period, enterprise-level fiber services also expanded in major cities.",
+      "image": "images/wateen.jpg"
+    },
+
+    {
+      "year": 2016,
+      "title": "Storm Fibre 3G/4G",
+      "description": "In 2014,the Pakistan Telecommunication Authority conducted Pakistan’s first 3G and 4G spectrum auction. This marked the beginning of widespread mobile internet access and significantly increased smartphone usage across the country.In 2016,stormFiber launched FTTH services in major cities including Karachi, Lahore, and Islamabad, increasing competition and improving internet speeds for residential users.",
+      "image": "images/StormFiber-banner.webp"
+    },
+    {
+      "year": 2023,
+      "title": " Fibre Optic Cable",
+      "description": "Between 2023 and 2025, Pakistan expanded international fiber connectivity through cross-border optical fiber projects and initiated early 5G testing trials. These developments aim to modernize telecommunications infrastructure, support digital transformation initiatives, and enhance economic growth through improved connectivity.",
+      "image": "images/fiberopticcable.webp"
+    } 
+
+  ]
+
